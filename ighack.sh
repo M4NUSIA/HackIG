@@ -1,8 +1,4 @@
 x# !/bin/bash
-# author         : ./M4NUSIA
-# thanks to      : PSYCHOXPLOIT - 
-# recode tinggal recode aja okeh?, tapi cantumin source 
-# Yamaap kalau scriptnya acak"an:(
 
 # color(bold)
 red='\e[1;31m'
@@ -23,7 +19,7 @@ echo -e $'''
             -=[ Multiple Bruteforce For Instagram ]=-
               
 
-\e[1;31m      contact: M4NUSIA \e[1;37m
+\e[1;31m      contact: Suzuya-XIII \e[1;37m
 '''
 
 # dependencies
